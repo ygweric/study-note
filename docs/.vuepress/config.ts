@@ -23,6 +23,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
   // set site base to default value
+  // base: '/cesiumjs-learning/',
   base: '/',
 
   // extra tags in `<head>`
@@ -48,33 +49,18 @@ export default defineUserConfig({
 
   // configure default theme
   theme: defaultTheme({
-    hostname: 'https://vuepress.vuejs.org',
+    hostname: 'https://cesium.guowei.fun',
     logo: '/images/hero.png',
-    repo: 'vuepress/core',
-    docsRepo: 'vuepress/docs',
+    repo: 'ygweric/cesiumjs-learning',
+    docsRepo: 'ygweric/cesiumjs-learning',
     docsDir: 'docs',
 
     // theme-level locales config
     locales: {
       /**
-       * English locale config
-       *
-       * As the default locale of @vuepress/theme-default is English,
-       * we don't need to set all of the locale fields
-       */
-      '/': {
-        // navbar
-        navbar: navbarEn,
-        // sidebar
-        sidebar: sidebarEn,
-        // page meta
-        editLinkText: 'Edit this page on GitHub',
-      },
-
-      /**
        * Chinese locale config
        */
-      '/zh/': {
+      '/': {
         // navbar
         navbar: navbarZh,
         selectLanguageName: '简体中文',
