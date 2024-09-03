@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advanced/cookbook/resolving-routes.md",
+                "file": "advanced/theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "advanced/cookbook/resolving-routes.md",
+                "file": "advanced/theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "advanced/cookbook/resolving-routes.md",
+                "file": "advanced/theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "advanced/cookbook/resolving-routes.md"
+                "file": "advanced/theme.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "advanced/plugin.md",
+    "advanced/architecture.md",
+    "advanced/cookbook/resolving-routes.md",
     "note/advanced/readme.md",
     "note/advanced/Pasted image 20240903120712.png",
     "note/advanced/Pasted image 20240903120658.png",
@@ -156,7 +159,6 @@
     "note/advanced",
     "advanced/cookbook/markdown-and-vue-sfc.md",
     "advanced/cookbook/adding-extra-pages.md",
-    "advanced/cookbook/resolving-routes.md",
     "advanced/cookbook/passing-data-to-client-code.md",
     "advanced/cookbook/making-a-theme-extendable.md",
     "guide/deployment.md",
