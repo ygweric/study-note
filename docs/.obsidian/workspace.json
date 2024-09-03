@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "advanced/theme.md",
+                "file": "tools/git/config/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "advanced/theme.md",
+                "file": "tools/git/config/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "advanced/theme.md",
+                "file": "tools/git/config/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "advanced/theme.md"
+                "file": "tools/git/config/index.md"
               }
             }
           }
@@ -143,12 +143,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "terminal:Open terminal": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "fe/index.md",
+    "fe/index",
+    "fe/module/npm-vs-gitsubmodule/index.md",
+    "fe/module/npm-vs-gitsubmodule",
+    "fe/module",
+    "fe",
+    "cesium/advanced/readme.md",
+    "tools/git/config/index.md",
+    "tools/git/config",
+    "tools/git",
+    "tools",
+    "cesium/advanced/Pasted image 20240903120712.png",
+    "cesium/advanced/Pasted image 20240903120658.png",
+    "cesium/advanced/1.png",
+    "cesium/readme.md",
+    "advanced/theme.md",
     "advanced/plugin.md",
     "advanced/architecture.md",
     "advanced/cookbook/resolving-routes.md",

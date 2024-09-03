@@ -5,25 +5,14 @@ export const navbarZh: NavbarOptions = [
   {
     text: 'Cesium',
     link: '/cesium/',
-    // children: [
-    //   {
-    //     text: '基础',
-    //     children: ['/note/basic/what.md'],
-    //   },
-    //   {
-    //     text: '简单用例',
-    //     children: ['/note/case/init.md'],
-    //   },
-    //   {
-    //     text: '高级用法',
-    //     children: [
-    //       {
-    //         text: '插件',
-    //         link: 'https://ecosystem.vuejs.press/plugins/',
-    //       },
-    //     ],
-    //   },
-    // ],
+  },
+  {
+    text: '前端',
+    link: '/fe/',
+  },
+  {
+    text: '开发工具',
+    link: '/tools/',
   },
   // {
   //   text: '指南',

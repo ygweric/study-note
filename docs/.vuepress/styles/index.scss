@@ -1,5 +1,10 @@
 :root {
   scroll-behavior: smooth;
+
+  code span {
+    // fix: code in block is too dark to see
+    color: rgba(150, 143, 135, 0.78);
+  }
 }
 
 @media (min-width: 751px) {

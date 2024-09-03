@@ -1,8 +1,13 @@
 import type { SidebarOptions } from '@vuepress/theme-default'
 import cesium from './cesium.json'
+import fe from './fe.json'
+import tools from './tools.json'
 
 export const sidebarZh: SidebarOptions = {
   '/cesium/': cesium,
+  '/fe/': fe,
+  // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+  '/tools/': tools,
   // '/note/': [
   //   {
   //     text: '基础',

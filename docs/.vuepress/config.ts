@@ -11,9 +11,7 @@ import { defineUserConfig } from 'vuepress'
 import { getDirname, path } from 'vuepress/utils'
 import {
   head,
-  navbarEn,
   navbarZh,
-  sidebarEn,
   sidebarZh,
 } from './configs/index.js'
 
