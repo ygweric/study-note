@@ -1,15 +1,14 @@
-# VuePress Documentation Contributing Guide
+# VuePress 文档贡献指南
 
-## Overview
+## 概览
 
-VuePress documentation is powered by VuePress itself, which is built from the source code of this repository.
+VuePress 的文档是由 VuePress 自己驱动的，是由该仓库中的源码构建而来。
 
-All the markdown source files are placed in `docs` directory. We are maintaining two translations:
+所有的 Markdown 源文件都放置在 `docs` 目录下。我们维护了两种翻译：
 
-- English (en-US) in `/` path
-- Chinese (zh-CN) in `/zh/` path
+- 中文 (zh-CN) 在 `/` 路径下
 
-We have two different deployments:
+我们部署了两套站点：
 
-- Release deployment powered by [Netlify](https://www.netlify.com). This deployment is built from the latest released version, so users will not see unreleased changes. The domain name is [https://vuepress.vuejs.org](https://vuepress.vuejs.org).
-- Developer deployment powered by [GitHub Pages](https://pages.github.com). This deployment is built from the latest commit, so developers could preview the latest changes. The domain name is [https://vuepress.github.io](https://vuepress.github.io).
+- 在 [Netlify](https://www.netlify.com) 部署的 Release 版本。该站点是从最新发布的版本中构建而来，因此用户不会看到未发布的改动。域名为 [https://vuepress.vuejs.org](https://vuepress.vuejs.org)。
+- 在 [GitHub Pages](https://pages.github.com) 部署的 Developer 版本。该站点是从最新的提交中构建而来，因此开发者可以预览最新的改动。域名为 [https://vuepress.github.io](https://vuepress.github.io)。
