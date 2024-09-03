@@ -23,7 +23,6 @@ const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
   // set site base to default value
-  // base: '/cesiumjs-learning/',
   base: '/',
 
   // extra tags in `<head>`
@@ -46,8 +45,8 @@ export default defineUserConfig({
   theme: defaultTheme({
     hostname: 'https://cesium.guowei.fun',
     logo: '/images/hero.png',
-    repo: 'ygweric/cesiumjs-learning',
-    docsRepo: 'ygweric/cesiumjs-learning',
+    repo: 'ygweric/study-note',
+    docsRepo: 'ygweric/study-note',
     docsDir: 'docs',
 
     // theme-level locales config

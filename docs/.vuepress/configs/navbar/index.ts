@@ -3,7 +3,7 @@ import type { NavbarOptions } from '@vuepress/theme-default'
 
 export const navbarZh: NavbarOptions = [
   {
-    text: 'CesiumJS',
+    text: 'Cesium',
     link: '/cesium/',
     // children: [
     //   {
