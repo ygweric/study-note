@@ -28,17 +28,24 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: pnpm
 
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+      # - name: Install dependencies
+      #   run: pnpm install --frozen-lockfile
 
-      - name: Build documentation site
-        run: pnpm docs:build
+      # - name: Build documentation site
+      #   run: pnpm docs:build
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: gh-pages
-          build_dir: docs/.vuepress/dist
-          fqdn: study.guowei.fun
+      - name: vuepress-deploy
+        uses: jenkey2011/vuepress-deploy@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_SCRIPT: pnpm install --frozen-lockfile && pnpm docs:build
+          BUILD_DIR: docs/.vuepress/dist/
+
+      # - name: Deploy to GitHub Pages
+      #   uses: crazy-max/ghaction-github-pages@v4
+      #   with:
+      #     target_branch: gh-pages
+      #     build_dir: docs/.vuepress/dist
+      #     fqdn: study.guowei.fun
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
