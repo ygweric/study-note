@@ -33,8 +33,8 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'VuePress',
-      description: 'Vue 驱动的静态网站生成器',
+      title: '学习笔记',
+      description: '个人学习笔记',
     },
   },
 

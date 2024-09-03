@@ -1,8 +1,8 @@
 import type { SidebarOptions } from '@vuepress/theme-default'
-import note from './note.json'
+import cesium from './cesium.json'
 
 export const sidebarZh: SidebarOptions = {
-  '/note/': note,
+  '/cesium/': cesium,
   // '/note/': [
   //   {
   //     text: '基础',

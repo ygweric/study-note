@@ -1,6 +1,6 @@
 {
-  "name": "VuePress",
-  "short_name": "VuePress",
+  "name": "学习笔记",
+  "short_name": "学习笔记",
   "description": "Vue-powered Static Site Generator",
   "start_url": "/index.html",
   "display": "standalone",

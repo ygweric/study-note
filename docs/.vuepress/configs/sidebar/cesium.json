@@ -1,16 +1,16 @@
 [
   {
     "text": "基础",
-    "children": ["/note/basic/what.md"]
+    "children": ["/cesium/basic/what.md"]
   },
   {
     "text": "简单用例",
-    "children": ["/note/case/init.md"]
+    "children": ["/cesium/case/init.md"]
   },
   {
     "text": "高级用法",
     "children": [
-      "/note/advanced/readme.md",
+      "/cesium/advanced/readme.md",
       {
         "text": "默认主题",
         "link": "https://ecosystem.vuejs.press/themes/default/"

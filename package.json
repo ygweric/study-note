@@ -1,7 +1,7 @@
 {
-  "name": "cesiumjs-learning",
-  "version": "0.0.",
-  "description": "My Note to learn Cesium, writed by the template of @vuepress/docs",
+  "name": "study-note",
+  "version": "0.0.1",
+  "description": "My study note, writed by the template of @vuepress/docs and hosted on Github Pages",
   "private": false,
   "type": "module",
   "scripts": {

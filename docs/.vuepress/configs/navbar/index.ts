@@ -3,8 +3,8 @@ import type { NavbarOptions } from '@vuepress/theme-default'
 
 export const navbarZh: NavbarOptions = [
   {
-    text: '笔记',
-    link: '/note/',
+    text: 'CesiumJS',
+    link: '/cesium/',
     // children: [
     //   {
     //     text: '基础',

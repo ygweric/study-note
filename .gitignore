@@ -11,3 +11,6 @@ node_modules/
 
 # Log files
 *.log
+
+# sync file paths
+docs/.vuepress/public/images/docs/

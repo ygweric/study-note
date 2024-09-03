@@ -21,8 +21,8 @@ export const head: HeadConfig[] = [
     },
   ],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-  ['meta', { name: 'application-name', content: 'VuePress' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: 'VuePress' }],
+  ['meta', { name: 'application-name', content: '学习笔记' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: '学习笔记' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   [
     'link',
