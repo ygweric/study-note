@@ -1,0 +1,25 @@
+[
+  {
+    "text": "基础",
+    "collapsible": true,
+    "children": ["/note/basic/what.md"]
+  },
+  {
+    "text": "简单用例",
+    "collapsible": true,
+    "children": ["/note/case/init.md"]
+  },
+  {
+    "text": "高级用法",
+    "children": [
+      {
+        "text": "默认主题",
+        "link": "https://ecosystem.vuejs.press/themes/default/"
+      },
+      {
+        "text": "插件",
+        "link": "https://ecosystem.vuejs.press/plugins/"
+      }
+    ]
+  }
+]

@@ -1,30 +1,33 @@
 import type { SidebarOptions } from '@vuepress/theme-default'
+import note from './note.json'
 
 export const sidebarZh: SidebarOptions = {
-  '/note/': [
-    {
-      text: '基础',
-      collapsible: true,
-      children: ['/note/basic/what.md'],
-    },
-    {
-      text: '简单用例',
-      children: ['/note/case/init.md'],
-    },
-    {
-      text: '高级用法',
-      children: [
-        {
-          text: '默认主题',
-          link: 'https://ecosystem.vuejs.press/themes/default/',
-        },
-        {
-          text: '插件',
-          link: 'https://ecosystem.vuejs.press/plugins/',
-        },
-      ],
-    },
-  ],
+  '/note/': note,
+  // '/note/': [
+  //   {
+  //     text: '基础',
+  //     collapsible: true,
+  //     children: ['/note/basic/what.md'],
+  //   },
+  //   {
+  //     text: '简单用例',
+  //     collapsible: true,
+  //     children: ['/note/case/init.md'],
+  //   },
+  //   {
+  //     text: '高级用法',
+  //     children: [
+  //       {
+  //         text: '默认主题',
+  //         link: 'https://ecosystem.vuejs.press/themes/default/',
+  //       },
+  //       {
+  //         text: '插件',
+  //         link: 'https://ecosystem.vuejs.press/plugins/',
+  //       },
+  //     ],
+  //   },
+  // ],
 
   // '/guide/': [
   //   {
