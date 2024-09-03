@@ -10,6 +10,7 @@
   {
     "text": "高级用法",
     "children": [
+      "/note/advanced/readme.md",
       {
         "text": "默认主题",
         "link": "https://ecosystem.vuejs.press/themes/default/"
