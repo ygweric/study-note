@@ -38,7 +38,8 @@ jobs:
         uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_SCRIPT: pnpm install --frozen-lockfile && pnpm docs:build
+          # BUILD_SCRIPT: pnpm install --frozen-lockfile && pnpm docs:build
+          BUILD_SCRIPT: yarn && yarn docs:build
           BUILD_DIR: docs/.vuepress/dist/
 
       # - name: Deploy to GitHub Pages
