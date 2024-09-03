@@ -1,12 +1,10 @@
 [
   {
     "text": "基础",
-    "collapsible": true,
     "children": ["/note/basic/what.md"]
   },
   {
     "text": "简单用例",
-    "collapsible": true,
     "children": ["/note/case/init.md"]
   },
   {
