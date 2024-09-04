@@ -5,5 +5,6 @@
   "attachmentFolderPath": "./",
   "userIgnoreFilters": null,
   "livePreview": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": false
 }

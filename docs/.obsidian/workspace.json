@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cesium/advanced/readme.md",
+                "file": "cesium/gis/file-format/summary/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cesium/advanced/readme.md",
+                "file": "cesium/gis/file-format/summary/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cesium/advanced/readme.md",
+                "file": "cesium/gis/file-format/summary/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cesium/advanced/readme.md"
+                "file": "cesium/gis/file-format/summary/index.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "cesium/advanced/readme.md",
+    "cesium/gis/file-format/summary/index.md",
+    "cesium/gis/file-format/summary",
+    "cesium/gis/file-format",
+    "cesium/gis",
+    "cesium/basic/Untitled",
     "cesium/advanced/Pasted image 20240904095904.png",
     "tools/git/config/index.md",
     "fe/index.md",
@@ -156,10 +162,8 @@
     "fe/module/npm-vs-gitsubmodule",
     "fe/module",
     "fe",
-    "cesium/advanced/readme.md",
     "tools/git/config",
     "tools/git",
-    "tools",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
     "cesium/advanced/1.png",
@@ -172,7 +176,6 @@
     "note/advanced/Pasted image 20240903120712.png",
     "note/advanced/Pasted image 20240903120658.png",
     "note/advanced/1.png",
-    "note/advanced",
     "advanced/cookbook/markdown-and-vue-sfc.md",
     "advanced/cookbook/adding-extra-pages.md",
     "advanced/cookbook/passing-data-to-client-code.md",

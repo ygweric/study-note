@@ -28,14 +28,6 @@ export const head: HeadConfig[] = [
     'link',
     { rel: 'apple-touch-icon', href: `/images/icons/apple-touch-icon.png` },
   ],
-  [
-    'link',
-    {
-      rel: 'mask-icon',
-      href: '/images/icons/safari-pinned-tab.svg',
-      color: '#3eaf7c',
-    },
-  ],
   ['meta', { name: 'msapplication-TileColor', content: '#3eaf7c' }],
   ['meta', { name: 'theme-color', content: '#3eaf7c' }],
 ]
