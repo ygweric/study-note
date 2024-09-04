@@ -6,5 +6,6 @@
   "userIgnoreFilters": null,
   "livePreview": true,
   "strictLineBreaks": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true
 }

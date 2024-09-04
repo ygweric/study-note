@@ -41,5 +41,6 @@
     "vuepress",
     "vueuse",
     "zoomable"
-  ]
+  ],
+  "files.autoSave": "off"
 }
