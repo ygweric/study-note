@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "cesium/advanced/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "cesium/advanced/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "cesium/advanced/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/git/config/index.md"
+                "file": "cesium/advanced/readme.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "cesium/advanced/Pasted image 20240904095904.png",
+    "tools/git/config/index.md",
     "fe/index.md",
     "fe/index",
     "fe/module/npm-vs-gitsubmodule/index.md",
@@ -155,7 +157,6 @@
     "fe/module",
     "fe",
     "cesium/advanced/readme.md",
-    "tools/git/config/index.md",
     "tools/git/config",
     "tools/git",
     "tools",
