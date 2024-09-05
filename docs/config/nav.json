@@ -1,5 +1,5 @@
 [
-  { "text": "博客", "link": "https://guowei.fun" },
+  { "text": "主站博客", "link": "https://guowei.fun" },
   { "text": "Cesium", "link": "/cesium/" },
   { "text": "前端", "link": "/fe/" },
   { "text": "开发工具", "link": "/tools/" }
