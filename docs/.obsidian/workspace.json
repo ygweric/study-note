@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cesium/gis/file-format/summary/index.md",
+                "file": "tools/npm/command/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cesium/gis/file-format/summary/index.md",
+                "file": "tools/npm/command/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cesium/gis/file-format/summary/index.md",
+                "file": "tools/npm/command/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cesium/gis/file-format/summary/index.md"
+                "file": "tools/npm/command/index.md"
               }
             }
           }
@@ -148,23 +148,25 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "tools/index.md",
+    "tools/js/chrome/load-js/index.md",
+    "tools/npm/command/index.md",
+    "tools/js/chrome/load-js",
+    "tools/js/chrome",
+    "tools/js",
+    "tools/git/config/index.md",
+    "tools/npm/command",
+    "tools/npm",
+    "cesium/gis/file-format/summary/index.md",
     "config/nav.json",
     "config/tools.json",
     "config/fe.json",
     "config/cesium.json",
     "config",
     "cesium/advanced/readme.md",
-    "cesium/gis/file-format/summary/index.md",
-    "cesium/gis/file-format/summary",
-    "cesium/gis/file-format",
-    "cesium/gis",
-    "cesium/basic/Untitled",
     "cesium/advanced/Pasted image 20240904095904.png",
-    "tools/git/config/index.md",
     "fe/index.md",
-    "fe/index",
     "fe/module/npm-vs-gitsubmodule/index.md",
-    "fe/module/npm-vs-gitsubmodule",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
     "cesium/advanced/1.png",
