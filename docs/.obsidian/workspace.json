@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/npm/command/index.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1132ac51b3d248d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/npm/command/index.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/npm/command/index.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/npm/command/index.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab54fbfce96121d0",
+  "active": "1132ac51b3d248d8",
   "lastOpenFiles": [
+    "README.md",
+    "草稿.md",
+    "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
-    "tools/npm/command/index.md",
     "tools/js/chrome/load-js",
     "tools/js/chrome",
     "tools/js",
