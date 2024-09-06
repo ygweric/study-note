@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿.md",
+                "file": "draft/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿.md",
+                "file": "draft/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿.md",
+                "file": "draft/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md"
+                "file": "draft/1.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "1132ac51b3d248d8",
   "lastOpenFiles": [
+    "draft",
     "README.md",
-    "草稿.md",
+    "draft/1.md",
     "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
