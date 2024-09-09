@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cesium/gis/file-format/geojson/index.md",
+                "file": "cesium/gis/date-format/Julian-Day.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cesium/gis/file-format/geojson/index.md",
+                "file": "cesium/gis/date-format/Julian-Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cesium/gis/file-format/geojson/index.md",
+                "file": "cesium/gis/date-format/Julian-Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cesium/gis/file-format/geojson/index.md"
+                "file": "cesium/gis/date-format/Julian-Day.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "1132ac51b3d248d8",
   "lastOpenFiles": [
-    "cesium/gis/file-format/summary/index.md",
     "cesium/gis/file-format/geojson/index.md",
+    "cesium/gis/date-format/Julian-Day.md",
+    "cesium/gis/date-format/Untitled",
+    "cesium/gis/date-format",
+    "cesium/gis/file-format/summary/index.md",
     "cesium/gis/file-format/geojson",
     "cesium/basic/what.md",
     "draft/1.md",
@@ -178,8 +181,6 @@
     "tools/npm/command",
     "tools/npm",
     "config/nav.json",
-    "config/tools.json",
-    "config/fe.json",
     "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "fe/index.md",
