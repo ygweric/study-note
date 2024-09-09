@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/1.md",
+                "file": "cesium/gis/file-format/geojson/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/1.md",
+                "file": "cesium/gis/file-format/geojson/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/1.md",
+                "file": "cesium/gis/file-format/geojson/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft/1.md"
+                "file": "cesium/gis/file-format/geojson/index.md"
               }
             }
           }
@@ -161,9 +161,13 @@
   },
   "active": "1132ac51b3d248d8",
   "lastOpenFiles": [
+    "cesium/gis/file-format/summary/index.md",
+    "cesium/gis/file-format/geojson/index.md",
+    "cesium/gis/file-format/geojson",
+    "cesium/basic/what.md",
+    "draft/1.md",
     "draft",
     "README.md",
-    "draft/1.md",
     "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
@@ -173,12 +177,9 @@
     "tools/git/config/index.md",
     "tools/npm/command",
     "tools/npm",
-    "cesium/gis/file-format/summary/index.md",
     "config/nav.json",
     "config/tools.json",
     "config/fe.json",
-    "config/cesium.json",
-    "config",
     "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "fe/index.md",
