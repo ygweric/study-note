@@ -14,3 +14,4 @@ node_modules/
 
 # sync file paths
 docs/.vuepress/public/images/docs/
+docs/config/*-sync.json
