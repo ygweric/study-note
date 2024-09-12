@@ -1,0 +1,70 @@
+[
+  {
+    "path": "/cesium/advanced",
+    "text": "/cesium/advanced",
+    "children": [
+      "/cesium/advanced/readme.md"
+    ]
+  },
+  {
+    "path": "/cesium/basic",
+    "text": "/cesium/basic",
+    "children": [
+      "/cesium/basic/what.md"
+    ]
+  },
+  {
+    "path": "/cesium/case",
+    "text": "/cesium/case",
+    "children": [
+      "/cesium/case/init.md"
+    ]
+  },
+  {
+    "path": "/cesium/cimbe",
+    "text": "/cesium/cimbe",
+    "children": [
+      {
+        "path": "/cesium/cimbe/layer",
+        "text": "/cesium/cimbe/layer",
+        "children": [
+          "/cesium/cimbe/layer/index.md"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/cesium/gis",
+    "text": "/cesium/gis",
+    "children": [
+      {
+        "path": "/cesium/gis/date-format",
+        "text": "/cesium/gis/date-format",
+        "children": [
+          "/cesium/gis/date-format/Julian-Day.md"
+        ]
+      },
+      {
+        "path": "/cesium/gis/file-format",
+        "text": "/cesium/gis/file-format",
+        "children": [
+          {
+            "path": "/cesium/gis/file-format/geojson",
+            "text": "/cesium/gis/file-format/geojson",
+            "children": [
+              "/cesium/gis/file-format/geojson/index.md"
+            ]
+          },
+          {
+            "path": "/cesium/gis/file-format/summary",
+            "text": "/cesium/gis/file-format/summary",
+            "children": [
+              "/cesium/gis/file-format/summary/index.md"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "/cesium/readme.md"
+]

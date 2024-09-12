@@ -2,5 +2,13 @@
   {
     "text": "Git",
     "children": ["/tools/git/config/"]
+  },
+  {
+    "text": "浏览器",
+    "children": ["/tools/js/chrome/load-js/index.md"]
+  },
+  {
+    "text": "npm",
+    "children": ["/tools/npm/command/index.md"]
   }
 ]

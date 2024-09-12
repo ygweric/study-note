@@ -1,3 +1,5 @@
+# 儒略日（Julian Day）
+
 Cesium中经常使用 **Cesium.JulianDate.now()** 这个函数
 
 儒略日（Julian Day）是在儒略周期内以连续的日数计算时间的计时法，主要是[天文学家](https://baike.baidu.com/item/%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AE%B6/1242040?fromModule=lemma_inlink)在使用。

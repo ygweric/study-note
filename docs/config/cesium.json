@@ -1,7 +1,19 @@
 [
   {
     "text": "GIS",
-    "children": ["/cesium/gis/file-format/summary/index.md"]
+    "children": [
+      {
+        "text": "文件格式",
+        "children": [
+          "/cesium/gis/file-format/summary/index.md",
+          "/cesium/gis/file-format/geojson/index.md"
+        ]
+      },
+      {
+        "text": "日期",
+        "children": ["/cesium/gis/date-format/Julian-Day.md"]
+      }
+    ]
   },
   {
     "text": "基础",

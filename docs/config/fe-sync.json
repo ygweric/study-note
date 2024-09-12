@@ -1,0 +1,16 @@
+[
+  "/fe/index.md",
+  {
+    "path": "/fe/module",
+    "text": "/fe/module",
+    "children": [
+      {
+        "path": "/fe/module/npm-vs-gitsubmodule",
+        "text": "/fe/module/npm-vs-gitsubmodule",
+        "children": [
+          "/fe/module/npm-vs-gitsubmodule/index.md"
+        ]
+      }
+    ]
+  }
+]
