@@ -79,7 +79,9 @@ const syncFilesToJson = (sourcePath) => {
     `${path.basename(sourcePath)}.json`,
   )
 
-  const usedPaths = extractMdPaths(fs.readFileSync(configFilePath, 'utf-8'))
+  const usedPaths = extractMdPaths(
+    JSON.parse(fs.readFileSync(configFilePath, 'utf-8')),
+  )
 
   const noteConfigObject = getMarkdownFiles(
     sourcePath,
