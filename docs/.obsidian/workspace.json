@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1132ac51b3d248d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cesium/cimbe/layer/index.md",
+                "file": "cesium/gis/terminology/Cartesian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cesium/cimbe/layer/index.md",
+                "file": "cesium/gis/terminology/Cartesian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cesium/cimbe/layer/index.md",
+                "file": "cesium/gis/terminology/Cartesian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cesium/cimbe/layer/index.md"
+                "file": "cesium/gis/terminology/Cartesian.md"
               }
             }
           }
@@ -159,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1132ac51b3d248d8",
+  "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "cesium/basic/what.md",
+    "cesium/gis/terminology/Cartesian.md",
+    "cesium/gis/terminology",
+    "README.md",
     "cesium/gis/date-format/Julian-Day.md",
     "cesium/cimbe/layer/index.md",
     "cesium/cimbe/layer",
@@ -170,10 +161,8 @@
     "cesium/gis/date-format",
     "cesium/gis/file-format/summary/index.md",
     "cesium/gis/file-format/geojson",
-    "cesium/basic/what.md",
     "draft/1.md",
     "draft",
-    "README.md",
     "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
@@ -181,7 +170,6 @@
     "tools/js/chrome",
     "tools/js",
     "tools/git/config/index.md",
-    "tools/npm/command",
     "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "fe/index.md",
@@ -203,7 +191,6 @@
     "advanced/cookbook/passing-data-to-client-code.md",
     "advanced/cookbook/making-a-theme-extendable.md",
     "guide/deployment.md",
-    "guide/assets.md",
     "Pasted image 20240903120518.png"
   ]
 }
