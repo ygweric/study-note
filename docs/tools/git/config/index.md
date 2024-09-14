@@ -7,8 +7,13 @@ git config user.name "国wei"
 git config user.email "ygweric@gmail.com"
 ```
 
+## 修改默认remote
+```
+git branch --set-upstream-to origin/master
+```
 
-## submodule
+
+## 子模块 submodule 
 
 ### 更新、初始化
 ```
