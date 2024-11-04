@@ -1,6 +1,19 @@
 [
+  "/fe/index.md",
   {
     "text": "模块化",
     "children": ["/fe/module/npm-vs-gitsubmodule/index.md"]
+  },
+  {
+    "path": "/fe/performace",
+    "text": "性能优化",
+    "children": [
+      "/fe/performace/index.md",
+      {
+        "path": "/fe/performace/code-split",
+        "text": "代码分隔",
+        "children": ["/fe/performace/code-split/index.md"]
+      }
+    ]
   }
 ]

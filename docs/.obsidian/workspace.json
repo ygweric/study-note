@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "fe/performace/code-split/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "fe/performace/code-split/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/git/config/index.md",
+                "file": "fe/performace/code-split/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/git/config/index.md"
+                "file": "fe/performace/code-split/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -162,12 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a5f284be3483461",
+  "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "fe/performace/index.md",
+    "fe/index.md",
+    "fe/module/npm-vs-gitsubmodule/index.md",
+    "README.md",
+    "fe/performace/code-split/index.md",
+    "fe/performace/code-split",
+    "fe/performace",
+    "tools/git/config/index.md",
     "cesium/gis/terminology/Cartesian.md",
     "cesium/basic/what.md",
     "cesium/gis/terminology",
-    "README.md",
     "cesium/gis/date-format/Julian-Day.md",
     "cesium/cimbe/layer/index.md",
     "cesium/cimbe/layer",
@@ -183,13 +190,8 @@
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
     "tools/js/chrome/load-js",
-    "tools/js/chrome",
-    "tools/js",
-    "tools/git/config/index.md",
     "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
-    "fe/index.md",
-    "fe/module/npm-vs-gitsubmodule/index.md",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
     "cesium/advanced/1.png",
@@ -205,8 +207,6 @@
     "advanced/cookbook/markdown-and-vue-sfc.md",
     "advanced/cookbook/adding-extra-pages.md",
     "advanced/cookbook/passing-data-to-client-code.md",
-    "advanced/cookbook/making-a-theme-extendable.md",
-    "guide/deployment.md",
     "Pasted image 20240903120518.png"
   ]
 }
