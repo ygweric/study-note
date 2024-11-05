@@ -1,4 +1,5 @@
 [
+  "/tools/index.md",
   {
     "text": "Git",
     "children": ["/tools/git/config/index.md"]
@@ -10,5 +11,10 @@
   {
     "text": "npm",
     "children": ["/tools/npm/command/index.md"]
+  },
+  {
+    "path": "/tools/vi",
+    "text": "vi",
+    "children": ["/tools/vi/index.md"]
   }
 ]

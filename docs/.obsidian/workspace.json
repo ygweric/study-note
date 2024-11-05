@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fe/module/import/index.md",
+                "file": "tools/vi/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fe/module/import/index.md"
+                "file": "tools/vi/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -164,8 +164,10 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
-    "fe/module/import/import.meta.glob/index.md",
     "fe/module/import/index.md",
+    "tools/vi/index.md",
+    "tools/vi",
+    "fe/module/import/import.meta.glob/index.md",
     "fe/performace/code-split/index.md",
     "fe/module/import/import.meta.glob",
     "fe/module/import/Untitled.md",
@@ -188,7 +190,6 @@
     "cesium/gis/date-format/Untitled",
     "cesium/gis/date-format",
     "cesium/gis/file-format/summary/index.md",
-    "cesium/gis/file-format/geojson",
     "draft/1.md",
     "tools/npm/command/index.md",
     "tools/index.md",
@@ -203,7 +204,6 @@
     "advanced/plugin.md",
     "advanced/architecture.md",
     "advanced/cookbook/resolving-routes.md",
-    "note/advanced/readme.md",
     "note/advanced/Pasted image 20240903120712.png",
     "note/advanced/Pasted image 20240903120658.png",
     "note/advanced/1.png",
