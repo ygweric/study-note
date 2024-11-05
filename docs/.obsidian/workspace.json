@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fe/performace/code-split/index.md",
+                "file": "fe/module/import/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "006ab0b849fd7587",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fe/performace/code-split/index.md",
-                "collapseAll": false,
+                "file": "fe/module/import/index.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -152,18 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fe/performace/code-split/index.md"
+                "file": "fe/module/import/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,13 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "006ab0b849fd7587",
+  "active": "c7707b6a421ee7f0",
   "lastOpenFiles": [
+    "fe/module/import/Untitled.md",
+    "fe/module/import/index.md",
+    "fe/performace/code-split/index.md",
+    "fe/module/import",
     "fe/performace/index.md",
     "fe/index.md",
     "fe/module/npm-vs-gitsubmodule/index.md",
     "README.md",
-    "fe/performace/code-split/index.md",
     "fe/performace/code-split",
     "fe/performace",
     "tools/git/config/index.md",
@@ -202,7 +192,6 @@
     "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
-    "tools/js/chrome/load-js",
     "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
@@ -218,8 +207,6 @@
     "note/advanced/Pasted image 20240903120658.png",
     "note/advanced/1.png",
     "advanced/cookbook/markdown-and-vue-sfc.md",
-    "advanced/cookbook/adding-extra-pages.md",
-    "advanced/cookbook/passing-data-to-client-code.md",
     "Pasted image 20240903120518.png"
   ]
 }
