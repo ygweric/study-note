@@ -15,7 +15,7 @@
               "state": {
                 "file": "fe/module/import/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -162,11 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7707b6a421ee7f0",
+  "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
-    "fe/module/import/Untitled.md",
-    "fe/module/import/index.md",
     "fe/performace/code-split/index.md",
+    "fe/module/import/import.meta.glob/index.md",
+    "fe/module/import/index.md",
+    "fe/module/import/import.meta.glob",
+    "fe/module/import/Untitled.md",
     "fe/module/import",
     "fe/performace/index.md",
     "fe/index.md",
@@ -188,7 +190,6 @@
     "cesium/gis/file-format/summary/index.md",
     "cesium/gis/file-format/geojson",
     "draft/1.md",
-    "draft",
     "tools/npm/command/index.md",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
@@ -206,7 +207,6 @@
     "note/advanced/Pasted image 20240903120712.png",
     "note/advanced/Pasted image 20240903120658.png",
     "note/advanced/1.png",
-    "advanced/cookbook/markdown-and-vue-sfc.md",
     "Pasted image 20240903120518.png"
   ]
 }

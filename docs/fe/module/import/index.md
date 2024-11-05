@@ -87,6 +87,80 @@ myModule.function2(); // 输出: This is function2
 - 当模块有多个导出项时，使用命名导出可以更好地组织和管理这些导出项。
 
 
+### 动态导入 import()
+
+动态导入允许你在运行时按需加载模块，这对于提高性能和减少初始加载时间非常有用。
+
+```js
+// 动态导入模块
+import('./module.js').then((module) => {
+  // 使用模块中的功能
+  module.functionName();
+}).catch((error) => {
+  console.error('Failed to load module', error);
+});
+```
+
+### 使用 `type="module"` 的` <script>` 标签
+
+在HTML中，可以通过设置`<script>`标签的type属性为module来引入ES模块。
+
+```html
+<script type="module">
+  import { functionName } from './module.js';
+  functionName();
+</script>
+```
+
+
+## vite
+
+### `import.meta.glob`
+
+`import.meta.glob` 通常用于以下场景：
+
+1. **按需加载组件**：在Vue 3等框架中，可以用来动态加载组件。
+2. **批量导入文件**：例如，导入一个目录下的所有图片或JSON文件。
+3. **懒加载路由**：在Vue Router或React Router中，可以用来动态加载路由组件。
+
+### 基本用法
+
+假设你有一个目录 `components`，里面包含多个组件文件，你可以使用 `import.meta.glob` 来动态导入这些组件。
+
+
+```js
+// main.js
+import { createApp } from 'vue';
+import App from './App.vue';
+
+const app = createApp(App);
+
+// 动态导入 components 目录下的所有 .vue 文件
+const components = import.meta.glob('./components/*.vue');
+
+for (const path in components) {
+  const componentName = path.split('/').pop().replace(/\.vue$/, '');
+  components[path]().then((module) => {
+    app.component(componentName, module.default);
+  });
+}
+
+app.mount('#app');
+```
+
+#### 解释
+
+- **`import.meta.glob`**：返回一个对象，键是匹配的文件路径，值是动态导入的Promise。
+- **`context.keys()`**：在Webpack中，返回所有匹配的文件路径。
+- **`context(key)`**：在Webpack中，根据文件路径动态导入模块。
+
+
+
+## webpack
+
+
+
+
 
 
 
