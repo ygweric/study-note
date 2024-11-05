@@ -1,4 +1,4 @@
-# js模块的几种形式
+# js导入的几种形式
 
 探讨下面内容：
 - js导入
@@ -155,23 +155,77 @@ app.mount('#app');
 - **`context(key)`**：在Webpack中，根据文件路径动态导入模块。
 
 
-
 ## webpack
 
+`require.context` 是 Webpack 提供的一个强大的功能，用于创建一个动态的模块请求上下文。它允许你在运行时动态地导入一组模块，而不需要手动列出每个模块的路径。这对于处理大量的文件（如组件、图片、配置文件等）非常有用。
+
+### 示例
+
+假设你有一个 `components` 目录，里面包含多个 Vue 组件文件，你希望动态地导入这些组件。
+
+#### 目录结构
+
+```
+src/
+├── components/
+│   ├── Button.vue
+│   ├── Input.vue
+│   └── Modal.vue
+└── main.js
+```
+
+ main.js
+
+```js
+// 创建一个 require.context 对象
+const requireComponent = require.context(
+  './components', // 目录路径
+  false,          // 是否递归搜索子目录
+  /\.vue$/        // 匹配模式，只匹配 .vue 文件
+);
+
+// 遍历所有匹配的文件
+requireComponent.keys().forEach((fileName) => {
+  const componentName = fileName
+    .split('/')
+    .pop()
+    .replace(/\.\w+$/, ''); // 去掉文件扩展名
+
+  const component = requireComponent(fileName).default;
+
+  // 注册组件到 Vue 应用
+  app.component(componentName, component);
+});
+```
+
+### 解释
+
+1. **创建 `require.context` 对象**：
 
 
+```
+const requireComponent = require.context(
+  './components', // 目录路径
+  false,          // 是否递归搜索子目录
+  /\.vue$/        // 匹配模式，只匹配 .vue 文件
+);
+```
 
+2. **遍历匹配的文件**：
 
+```js
+requireComponent.keys().forEach((fileName) => {
+  // 处理文件名，提取组件名
+  const componentName = fileName
+    .split('/')
+    .pop()
+    .replace(/\.\w+$/, ''); // 去掉文件扩展名
 
+  // 导入组件
+  const component = requireComponent(fileName).default;
 
+  // 注册组件到 Vue 应用
+  app.component(componentName, component);
+});
 
-
-
-
-
-
-
-
-
-
-
+```

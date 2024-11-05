@@ -15,7 +15,7 @@
               "state": {
                 "file": "fe/module/import/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -164,9 +164,9 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
-    "fe/performace/code-split/index.md",
     "fe/module/import/import.meta.glob/index.md",
     "fe/module/import/index.md",
+    "fe/performace/code-split/index.md",
     "fe/module/import/import.meta.glob",
     "fe/module/import/Untitled.md",
     "fe/module/import",

@@ -2,7 +2,21 @@
   "/fe/index.md",
   {
     "text": "模块化",
-    "children": ["/fe/module/npm-vs-gitsubmodule/index.md"]
+    "children": [
+      "/fe/module/npm-vs-gitsubmodule/index.md",
+      {
+        "path": "/fe/module/import",
+        "text": "导入",
+        "children": [
+          {
+            "path": "/fe/module/import/import.meta.glob",
+            "text": "import.meta.glob",
+            "children": ["/fe/module/import/import.meta.glob/index.md"]
+          },
+          "/fe/module/import/index.md"
+        ]
+      }
+    ]
   },
   {
     "path": "/fe/performace",
