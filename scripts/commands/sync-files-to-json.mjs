@@ -65,6 +65,7 @@ const sourcePaths = [
   path.resolve('docs/cesium'),
   path.resolve('docs/fe'),
   path.resolve('docs/tools'),
+  path.resolve('docs/algorithm'),
 ]
 
 const baseDir = path.resolve('docs')

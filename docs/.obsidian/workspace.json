@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/vi/index.md",
+                "file": "algorithm/code/左右两栏布局/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/vi/index.md"
+                "file": "algorithm/code/左右两栏布局/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -162,10 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab54fbfce96121d0",
+  "active": "6a5f284be3483461",
   "lastOpenFiles": [
-    "fe/module/import/index.md",
+    "config/algorithm-sync.json",
+    "algorithm/code/双向绑定/defineProperty.md",
+    "algorithm/code/左右两栏布局/index.md",
+    "algorithm/code/左右两栏布局",
+    "algorithm/code/双向绑定/proxy.md",
+    "algorithm/code/双向绑定/index.md",
+    "algorithm/code/index.md",
+    "algorithm/code/双向绑定",
+    "algorithm/index.md",
+    "algorithm/code",
     "tools/vi/index.md",
+    "algorithm",
+    "config/algorithm.json",
+    "config/fe copy.json",
+    "fe/module/import/index.md",
     "tools/vi",
     "fe/module/import/import.meta.glob/index.md",
     "fe/performace/code-split/index.md",
@@ -177,33 +190,20 @@
     "fe/module/npm-vs-gitsubmodule/index.md",
     "README.md",
     "fe/performace/code-split",
-    "fe/performace",
     "tools/git/config/index.md",
     "cesium/gis/terminology/Cartesian.md",
     "cesium/basic/what.md",
-    "cesium/gis/terminology",
     "cesium/gis/date-format/Julian-Day.md",
     "cesium/cimbe/layer/index.md",
-    "cesium/cimbe/layer",
-    "cesium/cimbe",
     "cesium/gis/file-format/geojson/index.md",
-    "cesium/gis/date-format/Untitled",
-    "cesium/gis/date-format",
     "cesium/gis/file-format/summary/index.md",
     "draft/1.md",
     "tools/npm/command/index.md",
     "tools/index.md",
-    "tools/js/chrome/load-js/index.md",
-    "cesium/advanced/readme.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
     "cesium/advanced/1.png",
-    "cesium/readme.md",
-    "advanced/theme.md",
-    "advanced/plugin.md",
-    "advanced/architecture.md",
-    "advanced/cookbook/resolving-routes.md",
     "note/advanced/Pasted image 20240903120712.png",
     "note/advanced/Pasted image 20240903120658.png",
     "note/advanced/1.png",

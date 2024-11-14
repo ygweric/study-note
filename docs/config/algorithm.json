@@ -1,0 +1,24 @@
+[
+  "/algorithm/index.md",
+  {
+    "path": "/algorithm/code",
+    "text": "手撕代码",
+    "children": [
+      "/algorithm/code/index.md",
+      {
+        "path": "/algorithm/code/双向绑定",
+        "text": "/algorithm/code/双向绑定",
+        "children": [
+          "/algorithm/code/双向绑定/defineProperty.md",
+          "/algorithm/code/双向绑定/index.md",
+          "/algorithm/code/双向绑定/proxy.md"
+        ]
+      },
+      {
+        "path": "/algorithm/code/左右两栏布局",
+        "text": "左右两栏布局",
+        "children": ["/algorithm/code/左右两栏布局/index.md"]
+      }
+    ]
+  }
+]
