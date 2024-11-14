@@ -6,18 +6,38 @@
     "children": [
       "/algorithm/code/index.md",
       {
-        "path": "/algorithm/code/v-bind",
+        "path": "/algorithm/code/curring",
+        "text": "柯里化Curring",
+        "children": ["/algorithm/code/curring/index.md"]
+      },
+      {
+        "path": "/algorithm/code/filter函数",
+        "text": "filter函数",
+        "children": ["/algorithm/code/filter函数/index.md"]
+      },
+      {
+        "path": "/algorithm/code/promise",
+        "text": "promise",
+        "children": ["/algorithm/code/promise/index.md"]
+      },
+      {
+        "path": "/algorithm/code/promiseify化",
+        "text": "promiseify",
+        "children": ["/algorithm/code/promiseify/index.md"]
+      },
+      {
+        "path": "/algorithm/code/双向绑定",
         "text": "双向绑定",
         "children": [
-          "/algorithm/code/v-bind/index.md",
-          "/algorithm/code/v-bind/defineProperty.md",
-          "/algorithm/code/v-bind/proxy.md"
+          "/algorithm/code/双向绑定/index.md",
+          "/algorithm/code/双向绑定/defineProperty.md",
+          "/algorithm/code/双向绑定/proxy.md"
         ]
       },
       {
-        "path": "/algorithm/code/layout-left-right",
-        "text": "左右两栏布局",
-        "children": ["/algorithm/code/layout-left-right/index.md"]
+        "path": "/algorithm/code/左右布局",
+        "text": "左右布局",
+        "children": ["/algorithm/code/左右布局/index.md"]
       }
     ]
   }
