@@ -1,4 +1,4 @@
-
+# defineProperty 实现
 ```js
 
 // 验证更新是否触发

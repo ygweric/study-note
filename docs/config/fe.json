@@ -19,7 +19,6 @@
     ]
   },
   {
-    "path": "/fe/performace",
     "text": "性能优化",
     "children": [
       "/fe/performace/index.md",
