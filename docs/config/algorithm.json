@@ -33,6 +33,145 @@
     ]
   },
   {
+    "path": "/algorithm/二叉树",
+    "text": "二叉树",
+    "children": [
+      {
+        "path": "/algorithm/二叉树/lc-101-简-对称二叉树",
+        "text": "lc-101-简-对称二叉树",
+        "children": ["/algorithm/二叉树/lc-101-简-对称二叉树/index.md"]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-102-中-二叉树的层序遍历",
+        "text": "lc-102-中-二叉树的层序遍历",
+        "children": ["/algorithm/二叉树/lc-102-中-二叉树的层序遍历/index.md"]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-104-简-二叉树的最大深度",
+        "text": "lc-104-简-二叉树的最大深度",
+        "children": ["/algorithm/二叉树/lc-104-简-二叉树的最大深度/index.md"]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-105-中-从前序与中序遍历序列构造二叉树",
+        "text": "lc-105-中-从前序与中序遍历序列构造二叉树",
+        "children": [
+          "/algorithm/二叉树/lc-105-中-从前序与中序遍历序列构造二叉树/index.md"
+        ]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-114-中-二叉树展开为链表",
+        "text": "lc-114-中-二叉树展开为链表",
+        "children": ["/algorithm/二叉树/lc-114-中-二叉树展开为链表/index.md"]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-226-简-翻转二叉树",
+        "text": "lc-226-简-翻转二叉树",
+        "children": ["/algorithm/二叉树/lc-226-简-翻转二叉树/index.md"]
+      },
+      {
+        "path": "/algorithm/二叉树/lc-236-中-二叉树的最近公共祖先",
+        "text": "lc-236-中-二叉树的最近公共祖先",
+        "children": [
+          "/algorithm/二叉树/lc-236-中-二叉树的最近公共祖先/index.md"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/动态规划",
+    "text": "动态规划",
+    "children": [
+      {
+        "path": "/algorithm/动态规划/lc-1277-中-统计全为 1 的正方形子矩阵",
+        "text": "lc-1277-中-统计全为 1 的正方形子矩阵",
+        "children": [
+          "/algorithm/动态规划/lc-1277-中-统计全为 1 的正方形子矩阵/index.md"
+        ]
+      },
+      {
+        "path": "/algorithm/动态规划/lc-221-中-最大正方形",
+        "text": "lc-221-中-最大正方形",
+        "children": ["/algorithm/动态规划/lc-221-中-最大正方形/index.md"]
+      },
+      {
+        "path": "/algorithm/动态规划/lc-62-中-不同路径",
+        "text": "lc-62-中-不同路径",
+        "children": ["/algorithm/动态规划/lc-62-中-不同路径/index.md"]
+      },
+      {
+        "path": "/algorithm/动态规划/lc-70-简-爬楼梯",
+        "text": "lc-70-简-爬楼梯",
+        "children": ["/algorithm/动态规划/lc-70-简-爬楼梯/index.md"]
+      },
+      {
+        "path": "/algorithm/动态规划/lc-72-中-编辑距离",
+        "text": "lc-72-中-编辑距离",
+        "children": ["/algorithm/动态规划/lc-72-中-编辑距离/index.md"]
+      },
+      {
+        "path": "/algorithm/动态规划/lc-746-简-使用最小花费爬楼梯",
+        "text": "lc-746-简-使用最小花费爬楼梯",
+        "children": [
+          "/algorithm/动态规划/lc-746-简-使用最小花费爬楼梯/index.md"
+        ]
+      },
+      {
+        "path": "/algorithm/动态规划/背包-01背包",
+        "text": "背包-01背包",
+        "children": ["/algorithm/动态规划/背包-01背包/index.md"]
+      },
+      {
+        "path": "/algorithm/动态规划/背包-完全背包",
+        "text": "背包-完全背包",
+        "children": ["/algorithm/动态规划/背包-完全背包/index.md"]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/原地哈希",
+    "text": "原地哈希",
+    "children": [
+      {
+        "path": "/algorithm/原地哈希/lc-33-中-搜索旋转排序数组",
+        "text": "lc-33-中-搜索旋转排序数组",
+        "children": ["/algorithm/原地哈希/lc-33-中-搜索旋转排序数组/index.md"]
+      },
+      {
+        "path": "/algorithm/原地哈希/lc-442-中-数组中重复的数据",
+        "text": "lc-442-中-数组中重复的数据",
+        "children": ["/algorithm/原地哈希/lc-442-中-数组中重复的数据/index.md"]
+      },
+      {
+        "path": "/algorithm/原地哈希/lc-448-简-找到所有数组中消失的数字",
+        "text": "lc-448-简-找到所有数组中消失的数字",
+        "children": [
+          "/algorithm/原地哈希/lc-448-简-找到所有数组中消失的数字/index.md"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/图",
+    "text": "图",
+    "children": [
+      {
+        "path": "/algorithm/图/lc-207-中-课程表",
+        "text": "lc-207-中-课程表",
+        "children": ["/algorithm/图/lc-207-中-课程表/index.md"]
+      },
+      {
+        "path": "/algorithm/图/lc-997- 简-找到小镇的法官",
+        "text": "lc-997- 简-找到小镇的法官",
+        "children": ["/algorithm/图/lc-997- 简-找到小镇的法官/index.md"]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/算法工具库",
+    "text": "算法工具库",
+    "children": ["/algorithm/算法工具库/index.md"]
+  },
+  {
     "path": "/algorithm/code",
     "text": "手撕代码",
     "children": [
