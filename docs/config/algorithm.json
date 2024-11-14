@@ -167,6 +167,138 @@
     ]
   },
   {
+    "path": "/algorithm/排序",
+    "text": "排序",
+    "children": [
+      {
+        "path": "/algorithm/排序/归并排序",
+        "text": "归并排序",
+        "children": ["/algorithm/排序/归并排序/index.md"]
+      },
+      {
+        "path": "/algorithm/排序/快排",
+        "text": "快排",
+        "children": ["/algorithm/排序/快排/index.md"]
+      },
+      {
+        "path": "/algorithm/排序/排序+双指针",
+        "text": "排序+双指针",
+        "children": [
+          "/algorithm/排序/排序+双指针/index.md",
+          {
+            "path": "/algorithm/排序/排序+双指针/lc- 524-中-通过删除字母匹配到字典里最长单词",
+            "text": "lc- 524-中-通过删除字母匹配到字典里最长单词",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc- 524-中-通过删除字母匹配到字典里最长单词/index.md"
+            ]
+          },
+          {
+            "path": "/algorithm/排序/排序+双指针/lc-15-中-三数之和",
+            "text": "lc-15-中-三数之和",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc-15-中-三数之和/index.md"
+            ]
+          },
+          {
+            "path": "/algorithm/排序/排序+双指针/lc-16-中-最接近的三数之和",
+            "text": "lc-16-中-最接近的三数之和",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc-16-中-最接近的三数之和/index.md"
+            ]
+          },
+          {
+            "path": "/algorithm/排序/排序+双指针/lc-283-简-移动零",
+            "text": "lc-283-简-移动零",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc-283-简-移动零/index.md"
+            ]
+          },
+          {
+            "path": "/algorithm/排序/排序+双指针/lc-3-中-无重复字符的最长子串",
+            "text": "lc-3-中-无重复字符的最长子串",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc-3-中-无重复字符的最长子串/index.md"
+            ]
+          },
+          {
+            "path": "/algorithm/排序/排序+双指针/lc-75-中-颜色分类",
+            "text": "lc-75-中-颜色分类",
+            "children": [
+              "/algorithm/排序/排序+双指针/lc-75-中-颜色分类/index.md"
+            ]
+          }
+        ]
+      },
+      {
+        "path": "/algorithm/排序/计数排序",
+        "text": "计数排序",
+        "children": ["/algorithm/排序/计数排序/index.md"]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/递归+回溯",
+    "text": "递归+回溯",
+    "children": [
+      {
+        "path": "/algorithm/递归+回溯/lc-17-中-电话号码的字母组合",
+        "text": "lc-17-中-电话号码的字母组合",
+        "children": [
+          "/algorithm/递归+回溯/lc-17-中-电话号码的字母组合/index.md"
+        ]
+      },
+      {
+        "path": "/algorithm/递归+回溯/lc-77-中-组合",
+        "text": "lc-77-中-组合",
+        "children": ["/algorithm/递归+回溯/lc-77-中-组合/index.md"]
+      },
+      {
+        "path": "/algorithm/递归+回溯/LCR-083-中-全排列-不重复",
+        "text": "LCR-083-中-全排列-不重复",
+        "children": ["/algorithm/递归+回溯/LCR-083-中-全排列-不重复/index.md"]
+      },
+      {
+        "path": "/algorithm/递归+回溯/LCR-084-中-全排列-重复",
+        "text": "LCR-084-中-全排列-重复",
+        "children": ["/algorithm/递归+回溯/LCR-084-中-全排列-重复/index.md"]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/链表",
+    "text": "链表",
+    "children": [
+      "/algorithm/链表/index.md",
+      {
+        "path": "/algorithm/链表/lc-142-中-环形链表 II",
+        "text": "lc-142-中-环形链表 II",
+        "children": ["/algorithm/链表/lc-142-中-环形链表 II/index.md"]
+      },
+      {
+        "path": "/algorithm/链表/lc-148-中-排序链表",
+        "text": "lc-148-中-排序链表",
+        "children": ["/algorithm/链表/lc-148-中-排序链表/index.md"]
+      },
+      {
+        "path": "/algorithm/链表/lc-160-简-相交链表",
+        "text": "lc-160-简-相交链表",
+        "children": ["/algorithm/链表/lc-160-简-相交链表/index.md"]
+      },
+      {
+        "path": "/algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点",
+        "text": "lc-19-中-删除链表的倒数第 N 个结点",
+        "children": [
+          "/algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点/index.md"
+        ]
+      },
+      {
+        "path": "/algorithm/链表/lc-287-中-寻找重复数",
+        "text": "lc-287-中-寻找重复数",
+        "children": ["/algorithm/链表/lc-287-中-寻找重复数/index.md"]
+      }
+    ]
+  },
+  {
     "path": "/algorithm/待分类",
     "text": "待分类",
     "children": [
