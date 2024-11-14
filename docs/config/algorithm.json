@@ -1,6 +1,38 @@
 [
   "/algorithm/index.md",
   {
+    "path": "/algorithm/hash",
+    "text": "hash哈希",
+    "children": [
+      {
+        "path": "/algorithm/hash/lc-1-简-两数之和",
+        "text": "lc-1-简-两数之和",
+        "children": ["/algorithm/hash/lc-1-简-两数之和/index.md"]
+      }
+    ]
+  },
+  {
+    "path": "/algorithm/top-k",
+    "text": "top-k",
+    "children": [
+      {
+        "path": "/algorithm/top-k/lc-215-数组中的第K个最大元素",
+        "text": "lc-215-数组中的第K个最大元素",
+        "children": ["/algorithm/top-k/lc-215-数组中的第K个最大元素/index.md"]
+      },
+      {
+        "path": "/algorithm/top-k/lc-347-中-前 K 个高频元素",
+        "text": "lc-347-中-前 K 个高频元素",
+        "children": ["/algorithm/top-k/lc-347-中-前 K 个高频元素/index.md"]
+      },
+      {
+        "path": "/algorithm/top-k/lc-LCR159-简-库存管理 III",
+        "text": "lc-LCR159-简-库存管理 III",
+        "children": ["/algorithm/top-k/lc-LCR159-简-库存管理 III/index.md"]
+      }
+    ]
+  },
+  {
     "path": "/algorithm/code",
     "text": "手撕代码",
     "children": [
