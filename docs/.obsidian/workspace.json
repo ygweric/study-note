@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/theory/前端路由实现原理/index.md",
+                "file": "interview/theory/宏任务_微任务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "宏任务_微任务"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/theory/前端路由实现原理/index.md"
+                "file": "interview/theory/宏任务_微任务.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 宏任务_微任务"
             }
           }
         ],
@@ -164,9 +164,17 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
-    "interview/theory/vue核心原理全解.md.md",
-    "interview/theory/前端路由实现原理/index.md",
+    "interview/theory/微前端.md",
+    "interview/theory/宏任务_微任务.md",
+    "interview/theory/捕获冒泡.md",
+    "interview/theory/Pasted image 20241120154327.png",
+    "interview/theory/h5-evnet详解.md",
+    "interview/theory/vue-SSR服务端渲染.md",
+    "interview/theory/script标签详解.md",
     "interview/theory/index.md",
+    "interview/theory/vue核心原理全解.md.md",
+    "interview/theory/前端路由实现原理.md",
+    "interview/theory/前端路由实现原理/index.md",
     "interview/theory/前端路由实现原理",
     "interview/theory",
     "algorithm/链表/lc-160-简-相交链表/index.md",
@@ -193,13 +201,6 @@
     "algorithm/排序/排序+双指针/lc-15-中-三数之和/index.md",
     "algorithm/排序/排序+双指针/index.md",
     "algorithm/排序/排序+双指针/lc-3-中-无重复字符的最长子串/index.md",
-    "algorithm/排序/排序+双指针/lc- 524-中-通过删除字母匹配到字典里最长单词/index.md",
-    "algorithm/排序/计数排序/index.md",
-    "algorithm/排序/快排/index.md",
-    "algorithm/排序/归并排序/index.md",
-    "algorithm/图/lc-997- 简-找到小镇的法官/index.md",
-    "algorithm/图/lc-207-中-课程表/index.md",
-    "algorithm/原地哈希/lc-448-简-找到所有数组中消失的数字/index.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
