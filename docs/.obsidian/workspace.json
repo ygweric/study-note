@@ -11,10 +11,14 @@
             "id": "7213d4bdd9d8a5c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "interview/code/this.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "this"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "interview/code/this.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of this"
             }
           }
         ],
@@ -158,6 +164,7 @@
   },
   "active": "7213d4bdd9d8a5c3",
   "lastOpenFiles": [
+    "interview/code/this.md",
     "README.md",
     "interview/algorithm/算法工具库.md",
     "interview/algorithm/图/lc-207-中-课程表.md",
@@ -185,7 +192,6 @@
     "interview/code/微前端.md",
     "interview/code/手写promise.md",
     "interview/code/手写filter函数.md",
-    "interview/code/前端路由实现原理.md",
     "interview/theory/Pasted image 20241120154459.png",
     "interview/theory/Pasted image 20241120154327.png",
     "interview/theory/前端路由实现原理",
