@@ -4,7 +4,6 @@
     "path": "/interview/algorithm",
     "text": "算法",
     "children": [
-      "/interview/algorithm/index.md",
       {
         "path": "/interview/algorithm/hash",
         "text": "hash哈希",
@@ -14,7 +13,6 @@
         "path": "/interview/algorithm/top-k",
         "text": "top K",
         "children": [
-          "/interview/algorithm/top-k/index.md",
           "/interview/algorithm/top-k/lc-215-数组中的第K个最大元素.md",
           "/interview/algorithm/top-k/lc-347-中-前 K 个高频元素.md",
           "/interview/algorithm/top-k/lc-LCR159-简-库存管理 III.md"
@@ -109,7 +107,6 @@
             "path": "/interview/algorithm/排序/排序+双指针",
             "text": "排序+双指针",
             "children": [
-              "/interview/algorithm/排序/排序+双指针/index.md",
               "/interview/algorithm/排序/排序+双指针/lc- 524-中-通过删除字母匹配到字典里最长单词.md",
               "/interview/algorithm/排序/排序+双指针/lc-15-中-三数之和.md",
               "/interview/algorithm/排序/排序+双指针/lc-16-中-最接近的三数之和.md",
@@ -136,7 +133,6 @@
         "path": "/interview/algorithm/链表",
         "text": "链表",
         "children": [
-          "/interview/algorithm/链表/index.md",
           "/interview/algorithm/链表/lc-142-中-环形链表 II.md",
           "/interview/algorithm/链表/lc-148-中-排序链表.md",
           "/interview/algorithm/链表/lc-160-简-相交链表.md",
@@ -151,7 +147,6 @@
     "path": "/interview/code",
     "text": "手撕代码",
     "children": [
-      "/interview/code/index.md",
       "/interview/code/curring.md",
       "/interview/code/h5-evnet详解.md",
       "/interview/code/promiseify化.md",
