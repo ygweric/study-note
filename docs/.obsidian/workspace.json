@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/链表/lc-287-中-寻找重复数/index.md",
+                "file": "interview/theory/前端路由实现原理/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/链表/lc-287-中-寻找重复数/index.md"
+                "file": "interview/theory/前端路由实现原理/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
@@ -164,6 +164,11 @@
   },
   "active": "ab54fbfce96121d0",
   "lastOpenFiles": [
+    "interview/theory/vue核心原理全解.md.md",
+    "interview/theory/前端路由实现原理/index.md",
+    "interview/theory/index.md",
+    "interview/theory/前端路由实现原理",
+    "interview/theory",
     "algorithm/链表/lc-160-简-相交链表/index.md",
     "algorithm/链表/lc-287-中-寻找重复数/index.md",
     "algorithm/链表/lc-287-中-寻找重复数",
@@ -182,9 +187,7 @@
     "algorithm/递归+回溯/lc-77-中-组合/index.md",
     "algorithm/递归+回溯/LCR-083-中-全排列-不重复",
     "algorithm/递归+回溯/lc-17-中-电话号码的字母组合/index.md",
-    "algorithm/递归+回溯/lc-77-中-组合",
     "algorithm/排序/排序+双指针/lc-283-简-移动零/index.md",
-    "algorithm/递归+回溯/lc-17-中-电话号码的字母组合",
     "algorithm/排序/排序+双指针/lc-75-中-颜色分类/index.md",
     "algorithm/排序/排序+双指针/lc-16-中-最接近的三数之和/index.md",
     "algorithm/排序/排序+双指针/lc-15-中-三数之和/index.md",
@@ -197,9 +200,6 @@
     "algorithm/图/lc-997- 简-找到小镇的法官/index.md",
     "algorithm/图/lc-207-中-课程表/index.md",
     "algorithm/原地哈希/lc-448-简-找到所有数组中消失的数字/index.md",
-    "algorithm/原地哈希/lc-442-中-数组中重复的数据/index.md",
-    "algorithm/原地哈希/lc-33-中-搜索旋转排序数组/index.md",
-    "algorithm/动态规划/背包-完全背包/index.md",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
