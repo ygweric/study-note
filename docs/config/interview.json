@@ -537,41 +537,23 @@
     "path": "/interview/code",
     "text": "手撕代码",
     "children": [
-      "/interview/code/index.md",
-      {
-        "path": "/interview/code/curring",
-        "text": "柯里化Curring",
-        "children": ["/interview/code/curring/index.md"]
-      },
-      {
-        "path": "/interview/code/filter函数",
-        "text": "filter函数",
-        "children": ["/interview/code/filter函数/index.md"]
-      },
-      {
-        "path": "/interview/code/promise",
-        "text": "promise",
-        "children": ["/interview/code/promise/index.md"]
-      },
-      {
-        "path": "/interview/code/promiseify化",
-        "text": "promiseify",
-        "children": ["/interview/code/promiseify/index.md"]
-      },
-      {
-        "path": "/interview/code/双向绑定",
-        "text": "双向绑定",
-        "children": [
-          "/interview/code/双向绑定/index.md",
-          "/interview/code/双向绑定/defineProperty.md",
-          "/interview/code/双向绑定/proxy.md"
-        ]
-      },
-      {
-        "path": "/interview/code/左右布局",
-        "text": "左右布局",
-        "children": ["/interview/code/左右布局/index.md"]
-      }
+      "/interview/code/curring.md",
+      "/interview/code/h5-evnet详解.md",
+      "/interview/code/promiseify化.md",
+      "/interview/code/script标签详解.md",
+      "/interview/code/vue-SSR服务端渲染.md",
+      "/interview/code/vue双向绑定.md",
+      "/interview/code/vue核心原理全解.md.md",
+      "/interview/code/前端路由实现原理.md",
+      "/interview/code/原型链.md",
+      "/interview/code/变量提升.md",
+      "/interview/code/宏任务_微任务.md",
+      "/interview/code/左右布局.md",
+      "/interview/code/异步.md",
+      "/interview/code/微前端.md",
+      "/interview/code/手写filter函数.md",
+      "/interview/code/手写promise.md",
+      "/interview/code/捕获冒泡.md"
     ]
   }
 ]
