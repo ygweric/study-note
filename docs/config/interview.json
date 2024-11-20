@@ -2,13 +2,9 @@
   "/interview/index.md",
   {
     "path": "/interview/algorithm",
-    "text": "/interview/algorithm",
-    "children": ["/interview/algorithm/index.md"]
-  },
-  {
-    "path": "/interview/algorithm/hash",
-    "text": "hash哈希",
+    "text": "算法",
     "children": [
+      "/interview/algorithm/index.md",
       {
         "path": "/interview/algorithm/hash",
         "text": "hash哈希",
