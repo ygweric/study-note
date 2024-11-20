@@ -163,7 +163,17 @@
       "/interview/code/微前端.md",
       "/interview/code/手写filter函数.md",
       "/interview/code/手写promise.md",
-      "/interview/code/捕获冒泡.md"
+      "/interview/code/捕获冒泡.md",
+      "/interview/code/new本质.md",
+      "/interview/code/Object.xxx.md",
+      "/interview/code/this.md",
+      "/interview/code/反射Reflect,、代理Proxy.md",
+      "/interview/code/基础类型.md",
+      "/interview/code/深拷贝-浅拷贝.md",
+      "/interview/code/继承.md",
+      "/interview/code/跨域.md",
+      "/interview/code/闭包.md",
+      "/interview/code/防抖-节流.md"
     ]
   }
 ]
