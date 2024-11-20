@@ -1,6 +1,6 @@
 # vue双向绑定
 
-# defineProperty 实现
+## defineProperty 实现
 ```js
 
 // 验证更新是否触发
@@ -73,7 +73,7 @@ console.log(JSON.stringify(data, null, 2));
 
 ```
 
-# proxy实现
+## proxy实现
 
 ```js
 // 模拟数据更新

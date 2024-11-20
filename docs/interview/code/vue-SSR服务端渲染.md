@@ -1,7 +1,7 @@
 # vue-SSR服务端渲染
 
 
-# SSR vue静态页面
+## SSR vue静态页面
 用`createSSRApp`渲染，`renderToString`得到对应的HTML， 拿到对应的html，可以通过express直接返回给接口
 
 由于前段没有加载vue，因此无法进行交互
@@ -22,7 +22,7 @@ renderToString(app).then((html) => {
 })
 ```
 
-# SSR 客户端激活
+## SSR 客户端激活
 在激活过程中，Vue 会创建一个与服务端完全相同的应用实例，然后将每个组件与它应该控制的 DOM 节点相匹配，并添加 DOM 事件监听器。
 
 1. 用`server.use(express.static('.'))`来托管客户端文件，当做静态文件等待返回。

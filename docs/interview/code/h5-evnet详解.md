@@ -4,7 +4,7 @@
 
 
 
-# Window Event Attributes
+## Window Event Attributes
 
 | Attribute | Value | Description |
 | --- | --- | --- |
@@ -28,7 +28,7 @@
 
 
 
-# Keyboard Events
+## Keyboard Events
 
 | Attribute | Value | Description |
 | --- | --- | --- |
@@ -38,7 +38,7 @@
 
 
 
-# Mouse Events
+## Mouse Events
 
 | Attribute | Value | Description |
 | --- | --- | --- |
@@ -53,7 +53,7 @@
 | onwheel | _script_ | Fires when the mouse wheel rolls up or down over an element |
 
 
-# Drag Events
+## Drag Events
 
 | Attribute | Value | Description |
 | --- | --- | --- |
@@ -66,7 +66,7 @@
 | ondrop | _script_ | Script to be run when dragged element is being dropped |
 | onscroll | _script_ | Script to be run when an element's scrollbar is being scrolled |
 
-# Clipboard Events
+## Clipboard Events
 
 | Attribute | Value | Description |
 | --- | --- | --- |
@@ -75,7 +75,7 @@
 | onpaste | _script_ | Fires when the user pastes some content in an element |
 
 
-# Media Events
+## Media Events
 
 | Attribute | Value | Description |
 | --- | --- | --- |
