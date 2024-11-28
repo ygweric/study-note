@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/code/深拷贝-浅拷贝.md",
+                "file": "tools/js/chrome/load-js/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "深拷贝-浅拷贝"
+              "title": "index"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/code/深拷贝-浅拷贝.md"
+                "file": "tools/js/chrome/load-js/index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 深拷贝-浅拷贝"
+              "title": "Outline of index"
             }
           }
         ],
@@ -164,8 +164,8 @@
   },
   "active": "7213d4bdd9d8a5c3",
   "lastOpenFiles": [
-    "interview/code/防抖-节流.md",
     "interview/code/深拷贝-浅拷贝.md",
+    "interview/code/防抖-节流.md",
     "interview/code/闭包.md",
     "interview/code/Object.xxx.md",
     "interview/code/基础类型.md",
