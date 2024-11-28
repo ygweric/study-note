@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/js/chrome/load-js/index.md",
+                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "vscode中debug调试nextjs配置"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/js/chrome/load-js/index.md"
+                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of vscode中debug调试nextjs配置"
             }
           }
         ],
@@ -164,6 +164,11 @@
   },
   "active": "7213d4bdd9d8a5c3",
   "lastOpenFiles": [
+    "tools/npm/command/index.md",
+    "tools/js/nextjs/vscode中debug调试nextjs配置.md",
+    "tools/js/nextjs",
+    "tools/index.md",
+    "tools/js/chrome/load-js/index.md",
     "interview/code/深拷贝-浅拷贝.md",
     "interview/code/防抖-节流.md",
     "interview/code/闭包.md",
@@ -188,10 +193,6 @@
     "interview/algorithm/待分类/lc-11-中-盛最多水的容器.md",
     "interview/index.md",
     "interview/code/vue双向绑定.md",
-    "interview/code/vue核心原理全解.md.md",
-    "interview/code/vue-SSR服务端渲染.md",
-    "interview/code/script标签详解.md",
-    "interview/code/promiseify化.md",
     "interview/code/Pasted image 20241120154327.png",
     "interview/code/Pasted image 20241120154459.png",
     "interview/theory/Pasted image 20241120154459.png",
@@ -205,7 +206,6 @@
     "algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点",
     "algorithm/链表",
     "algorithm/递归+回溯/LCR-084-中-全排列-重复",
-    "algorithm/递归+回溯/LCR-083-中-全排列-不重复",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
