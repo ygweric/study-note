@@ -3,32 +3,32 @@ home: true
 title: 首页
 heroImage: /images/hero.png
 actions:
-  - text: 快速上手
-    link: /zh/guide/getting-started.html
+  - text: 面试修炼
+    link: /interview/
     type: primary
 
-  - text: 项目简介
-    link: /zh/guide/introduction.html
+  - text: 主站博客
+    link: https://guowei.fun/
     type: secondary
 
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+  - title: 实用笔记
+    details: 分享HTML、CSS、JavaScript等前端开发的实用技巧和案例，贴近实际项目需求。。
 
-  - title: Vue 驱动
-    details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
+  - title: 面试攻略
+    details: 提供前端技术面试问题和解答，涵盖算法题与技术难题，助力求职者准备充分。
 
-  - title: 高性能
-    details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
+  - title: 算法解析
+    details: 更新算法题目及解题思路，提升逻辑思维与解题能力，掌握高效解决方案。
 
-  - title: 主题
-    details: 提供了一个开箱即用的默认主题。你也可以挑选一个社区主题，或者创建一个你自己的主题。
+  - title: 技巧优化
+    details: 推介提高开发效率和代码质量的方法，分享前端性能优化和工具使用技巧。
 
-  - title: 插件
-    details: 灵活的插件API，使得插件可以为你的站点提供许多即插即用的功能。
+  - title: 技术前沿
+    details: 关注WebAssembly等新兴技术，提供最前沿的信息，保持技术敏锐度。
 
-  - title: 打包工具
-    details: 推荐的打包工具是 Vite ，但也同样支持使用 Webpack 。选一个你喜欢的来使用吧！
+  - title: 社区交流
+    details: 打造活跃社区，读者可交流心得、提问分享，共同促进知识共享与成长。
 
-footer: MIT 协议 | 版权所有 © 2018-至今 VuePress 社区
+footer: MIT 协议 | 版权所有 © 2018-至今 国Wei.Fun
 ---

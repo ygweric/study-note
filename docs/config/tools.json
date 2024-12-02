@@ -1,12 +1,19 @@
 [
   "/tools/index.md",
   {
-    "text": "Git",
+    "text": "git",
     "children": ["/tools/git/config/index.md"]
   },
   {
-    "text": "浏览器",
-    "children": ["/tools/js/chrome/load-js/index.md"]
+    "text": "js",
+    "children": [
+      "/tools/js/chrome/load-js/index.md",
+      {
+        "path": "/tools/js/nextjs",
+        "text": "Next.js",
+        "children": ["/tools/js/nextjs/vscode中debug调试nextjs配置.md"]
+      }
+    ]
   },
   {
     "text": "npm",
