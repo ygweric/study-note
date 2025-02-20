@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,7 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md"
+                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of vscode中debug调试nextjs配置"
@@ -162,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7213d4bdd9d8a5c3",
+  "active": "c7707b6a421ee7f0",
   "lastOpenFiles": [
     "tools/npm/command/index.md",
     "tools/js/nextjs/vscode中debug调试nextjs配置.md",
@@ -206,9 +210,4 @@
     "algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点",
     "algorithm/链表",
     "algorithm/递归+回溯/LCR-084-中-全排列-重复",
-    "cesium/advanced/Pasted image 20240904095904.png",
-    "cesium/advanced/Pasted image 20240903120712.png",
-    "cesium/advanced/Pasted image 20240903120658.png",
-    "cesium/advanced/1.png"
-  ]
-}
+    "cesium/advanced/Pasted image 20240904095904.p
