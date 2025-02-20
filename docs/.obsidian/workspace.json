@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md",
+                "file": "cesium/gis/service/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vscode中debug调试nextjs配置"
+              "title": "index"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/js/nextjs/vscode中debug调试nextjs配置.md",
+                "file": "cesium/gis/service/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vscode中debug调试nextjs配置"
+              "title": "Outline of index"
             }
           }
         ],
@@ -166,10 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7707b6a421ee7f0",
+  "active": "7213d4bdd9d8a5c3",
   "lastOpenFiles": [
-    "tools/npm/command/index.md",
+    "cesium/gis/file-format/summary/index.md",
+    "cesium/gis/file-format/geojson/index.md",
+    "cesium/gis/service/index.md",
+    "cesium/gis/service",
+    "cesium/gis/date-format/Julian-Day.md",
     "tools/js/nextjs/vscode中debug调试nextjs配置.md",
+    "tools/npm/command/index.md",
     "tools/js/nextjs",
     "tools/index.md",
     "tools/js/chrome/load-js/index.md",
@@ -193,10 +198,6 @@
     "interview/algorithm/待分类/lc-56-中-合并区间.md",
     "interview/algorithm/待分类/lc-49-中-字母异位词分组.md",
     "interview/algorithm/待分类/lc-22-中-括号生成.md",
-    "interview/algorithm/待分类/lc-20-简-有效的括号.md",
-    "interview/algorithm/待分类/lc-11-中-盛最多水的容器.md",
-    "interview/index.md",
-    "interview/code/vue双向绑定.md",
     "interview/code/Pasted image 20241120154327.png",
     "interview/code/Pasted image 20241120154459.png",
     "interview/theory/Pasted image 20241120154459.png",
@@ -209,5 +210,9 @@
     "algorithm/链表/lc-142-中-环形链表 II",
     "algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点",
     "algorithm/链表",
-    "algorithm/递归+回溯/LCR-084-中-全排列-重复",
-    "cesium/advanced/Pasted image 20240904095904.p
+    "cesium/advanced/Pasted image 20240904095904.png",
+    "cesium/advanced/Pasted image 20240903120712.png",
+    "cesium/advanced/Pasted image 20240903120658.png",
+    "cesium/advanced/1.png"
+  ]
+}
