@@ -1,4 +1,5 @@
 [
+  "/cesium/readme.md",
   {
     "text": "GIS",
     "children": [
@@ -12,6 +13,16 @@
       {
         "text": "日期",
         "children": ["/cesium/gis/date-format/Julian-Day.md"]
+      },
+      {
+        "path": "/cesium/gis/service",
+        "text": "/cesium/gis/service",
+        "children": ["/cesium/gis/service/index.md"]
+      },
+      {
+        "path": "/cesium/gis/terminology",
+        "text": "/cesium/gis/terminology",
+        "children": ["/cesium/gis/terminology/Cartesian.md"]
       }
     ]
   },
