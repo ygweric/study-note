@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fe/module/link/index.md",
+                "file": "fe/micro-fe/qiankun/qiankun 实现隔离原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "qiankun 实现隔离原理"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fe/module/link/index.md",
+                "file": "fe/micro-fe/qiankun/qiankun 实现隔离原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of qiankun 实现隔离原理"
             }
           }
         ],
@@ -169,8 +169,15 @@
   },
   "active": "7213d4bdd9d8a5c3",
   "lastOpenFiles": [
-    "cesium/gis/service/index.md",
+    "fe/ts/ts的infer介绍.md",
+    "fe/micro-fe/qiankun/qiankun 实现隔离原理.md",
+    "fe/ts",
+    "advanced/cookbook/markdown-and-vue-sfc.md",
+    "fe/micro-fe/qiankun",
+    "fe/micro-fe",
+    "advanced/cookbook/adding-extra-pages.md",
     "fe/module/link/index.md",
+    "cesium/gis/service/index.md",
     "fe/module/link",
     "cesium/gis/file-format/summary/index.md",
     "cesium/gis/file-format/geojson/index.md",
@@ -196,10 +203,6 @@
     "README.md",
     "interview/algorithm/算法工具库.md",
     "interview/algorithm/图/lc-207-中-课程表.md",
-    "interview/algorithm/图/lc-997-简-找到小镇的法官.md",
-    "interview/algorithm/待分类/lc-438-中-找到字符串中所有字母异位词.md",
-    "interview/algorithm/待分类/lc-56-中-合并区间.md",
-    "interview/algorithm/待分类/lc-49-中-字母异位词分组.md",
     "interview/code/Pasted image 20241120154327.png",
     "interview/code/Pasted image 20241120154459.png",
     "interview/theory/Pasted image 20241120154459.png",
@@ -208,9 +211,6 @@
     "interview/theory",
     "algorithm/链表/lc-287-中-寻找重复数",
     "algorithm/链表/lc-160-简-相交链表",
-    "algorithm/链表/lc-148-中-排序链表",
-    "algorithm/链表/lc-142-中-环形链表 II",
-    "algorithm/链表/lc-19-中-删除链表的倒数第 N 个结点",
     "cesium/advanced/Pasted image 20240904095904.png",
     "cesium/advanced/Pasted image 20240903120712.png",
     "cesium/advanced/Pasted image 20240903120658.png",
