@@ -40,7 +40,7 @@ function getMarkdownFiles(dir, baseDir, usedPaths) {
   items.forEach((item) => {
     const fullPath = path.join(dir, item)
     const stat = fs.statSync(fullPath)
-
+    console.log('fullPath', fullPath)
     if (stat.isDirectory()) {
       // 如果是目录，递归获取子文件夹的 md 文件
       const children = getMarkdownFiles(fullPath, baseDir, usedPaths)
@@ -62,10 +62,10 @@ function getMarkdownFiles(dir, baseDir, usedPaths) {
 }
 
 const sourcePaths = [
-  path.resolve('docs/cesium'),
+  // path.resolve('docs/cesium'),
   path.resolve('docs/fe'),
-  path.resolve('docs/tools'),
-  path.resolve('docs/interview'),
+  // path.resolve('docs/tools'),
+  // path.resolve('docs/interview'),
 ]
 
 const baseDir = path.resolve('docs')

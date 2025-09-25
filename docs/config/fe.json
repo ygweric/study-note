@@ -13,7 +13,21 @@
             "text": "import.meta.glob",
             "children": ["/fe/module/import/import.meta.glob/index.md"]
           },
-          "/fe/module/import/index.md"
+          "/fe/module/import/index.md",
+          {
+            "path": "/fe/module/jsx",
+            "text": "JSX",
+            "children": [
+              "/fe/module/jsx/index.md",
+              "/fe/module/jsx/Rollup+Babel vs Gulp+TypeScript.md",
+              "/fe/module/jsx/Rollup-jsx-pragma.md"
+            ]
+          },
+          {
+            "path": "/fe/module/link",
+            "text": "/fe/module/link",
+            "children": ["/fe/module/link/index.md"]
+          }
         ]
       }
     ]
@@ -28,5 +42,21 @@
         "children": ["/fe/performace/code-split/index.md"]
       }
     ]
+  },
+  {
+    "path": "/fe/micro-fe",
+    "text": "微前端",
+    "children": [
+      {
+        "path": "/fe/micro-fe/qiankun",
+        "text": "qiankun",
+        "children": ["/fe/micro-fe/qiankun/qiankun 实现隔离原理.md"]
+      }
+    ]
+  },
+  {
+    "path": "/fe/ts",
+    "text": "TypeScript",
+    "children": ["/fe/ts/ts的infer介绍.md"]
   }
 ]
