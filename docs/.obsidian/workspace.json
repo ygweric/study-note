@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "qiankun 实现隔离原理"
             }
+          },
+          {
+            "id": "8609f43dd375bad7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fe/micro-fe/qiankun/qiankun 实现隔离原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of qiankun 实现隔离原理"
+              "title": "Outline"
             }
           }
         ],
@@ -167,7 +179,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7213d4bdd9d8a5c3",
+  "active": "8609f43dd375bad7",
   "lastOpenFiles": [
     "fe/ts/ts的infer介绍.md",
     "fe/micro-fe/qiankun/qiankun 实现隔离原理.md",
